@@ -1,0 +1,14 @@
+C:\Users\evelyn.oviangbede\OneDrive - FMDQ Securities Exchange\Pictures\Cook!\Guided project - Student Grading Apllication\Project\bin\Debug\net8.0\Starter.exe
+C:\Users\evelyn.oviangbede\OneDrive - FMDQ Securities Exchange\Pictures\Cook!\Guided project - Student Grading Apllication\Project\bin\Debug\net8.0\Starter.deps.json
+C:\Users\evelyn.oviangbede\OneDrive - FMDQ Securities Exchange\Pictures\Cook!\Guided project - Student Grading Apllication\Project\bin\Debug\net8.0\Starter.runtimeconfig.json
+C:\Users\evelyn.oviangbede\OneDrive - FMDQ Securities Exchange\Pictures\Cook!\Guided project - Student Grading Apllication\Project\bin\Debug\net8.0\Starter.dll
+C:\Users\evelyn.oviangbede\OneDrive - FMDQ Securities Exchange\Pictures\Cook!\Guided project - Student Grading Apllication\Project\bin\Debug\net8.0\Starter.pdb
+C:\Users\evelyn.oviangbede\OneDrive - FMDQ Securities Exchange\Pictures\Cook!\Guided project - Student Grading Apllication\Project\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evelyn.oviangbede\OneDrive - FMDQ Securities Exchange\Pictures\Cook!\Guided project - Student Grading Apllication\Project\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+C:\Users\evelyn.oviangbede\OneDrive - FMDQ Securities Exchange\Pictures\Cook!\Guided project - Student Grading Apllication\Project\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+C:\Users\evelyn.oviangbede\OneDrive - FMDQ Securities Exchange\Pictures\Cook!\Guided project - Student Grading Apllication\Project\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+C:\Users\evelyn.oviangbede\OneDrive - FMDQ Securities Exchange\Pictures\Cook!\Guided project - Student Grading Apllication\Project\obj\Debug\net8.0\Starter.dll
+C:\Users\evelyn.oviangbede\OneDrive - FMDQ Securities Exchange\Pictures\Cook!\Guided project - Student Grading Apllication\Project\obj\Debug\net8.0\refint\Starter.dll
+C:\Users\evelyn.oviangbede\OneDrive - FMDQ Securities Exchange\Pictures\Cook!\Guided project - Student Grading Apllication\Project\obj\Debug\net8.0\Starter.pdb
+C:\Users\evelyn.oviangbede\OneDrive - FMDQ Securities Exchange\Pictures\Cook!\Guided project - Student Grading Apllication\Project\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+C:\Users\evelyn.oviangbede\OneDrive - FMDQ Securities Exchange\Pictures\Cook!\Guided project - Student Grading Apllication\Project\obj\Debug\net8.0\ref\Starter.dll

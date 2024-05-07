@@ -1,0 +1,4 @@
+C:\Users\evelyn.oviangbede\OneDrive - FMDQ Securities Exchange\Pictures\Cook!\Guided project - Student Grading Apllication\Project\obj\Debug\net7.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evelyn.oviangbede\OneDrive - FMDQ Securities Exchange\Pictures\Cook!\Guided project - Student Grading Apllication\Project\obj\Debug\net7.0\Starter.AssemblyInfoInputs.cache
+C:\Users\evelyn.oviangbede\OneDrive - FMDQ Securities Exchange\Pictures\Cook!\Guided project - Student Grading Apllication\Project\obj\Debug\net7.0\Starter.AssemblyInfo.cs
+C:\Users\evelyn.oviangbede\OneDrive - FMDQ Securities Exchange\Pictures\Cook!\Guided project - Student Grading Apllication\Project\obj\Debug\net7.0\Starter.csproj.CoreCompileInputs.cache
